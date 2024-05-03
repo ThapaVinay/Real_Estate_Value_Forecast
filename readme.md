@@ -29,8 +29,6 @@ Several machine learning models are compared to select the best-performing one. 
 
 A Flask backend is developed to serve the trained machine learning model. HTML files are created to provide a user-friendly interface for users to interact with the model.
 
-![Frontend Screenshot](/images/image_1.png)
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
